@@ -24,3 +24,12 @@ h3 {
     text-transform: none;
     letter-spacing: 0.01em;
 }
+
+button {
+    width: 10rem;
+    height: 2.5rem;
+    border-color: black;
+    border-width: 0.1rem;
+    border-radius: 1rem;
+    background: linear-gradient(to right, rgb(50,50,50), rgb(255,255,255) );
+}
